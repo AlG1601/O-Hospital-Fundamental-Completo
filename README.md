@@ -13,7 +13,7 @@ Profissionais de enfermagem são responsáveis por acompanhar os pacientes. Cada
 ## Modelo Lógico
 
 Abaixo está o modelo lógico do banco de dados:
-<img src="https://github.com/AlG1601/Os-Segredos-do-Hospital/blob/main/img%20Modelo%20Conceitual%20-%20Os%20Segredos%20do%20Hospital.png" />
+<img src="https://github.com/AlG1601/Os-Segredos-do-Hospital/blob/main/img%20Modelo%20l%C3%B3gico%20-%20Os%20Segredos%20do%20Hospital.png" />
 
 ## Modelo Físico
 Aqui está o modelo físico do banco de dados, apresentado em SQL:
