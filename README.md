@@ -14,6 +14,10 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 Com as informações que você extrair da sua análise, desenhe um Diagrama ER para esse projeto de banco de dados. Você pode utilizar ferramentas como ERPlus, Lucidchart, BRModelo, draw.io (via web) ou o próprio MySQL Workbench.
 
+### Modelo Conceitual
+Abaixo está o modelo conceitual do banco de dados:
+<img src="https://github.com/AlG1601/O-Hospital-Fundamental-Completo/blob/main/img%20Modelo%20Conceitual%20-%20Os%20Segredos%20do%20Hospital.png" />
+
 ## PARTE 2 - Modelo Lógico
 
 Abaixo está o modelo lógico do banco de dados:
