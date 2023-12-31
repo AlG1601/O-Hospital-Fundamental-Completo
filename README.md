@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório "O Hospital Fundamental". Aqui você encontrará o desenvolvimento do banco de dados para um sistema hospitalar, com foco especial no controle de internações de pacientes.
 
-## Mãos a Obra
+## PARTE 1 - Mãos a Obra
 Analise a seguinte descrição e extraia dela os requisitos para o banco de dados:
 O hospital necessita de um sistema para sua área clínica que ajude a controlar consultas realizadas. Os médicos podem ser generalistas, especialistas ou residentes e têm seus dados pessoais cadastrados em planilhas digitais. Cada médico pode ter uma ou mais especialidades, que podem ser pediatria, clínica geral, gastroenterologia e dermatologia. Alguns registros antigos ainda estão em formulário de papel, mas será necessário incluir esses dados no novo sistema.
 
@@ -14,12 +14,12 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 Com as informações que você extrair da sua análise, desenhe um Diagrama ER para esse projeto de banco de dados. Você pode utilizar ferramentas como ERPlus, Lucidchart, BRModelo, draw.io (via web) ou o próprio MySQL Workbench.
 
-## Modelo Lógico
+## PARTE 2 - Modelo Lógico
 
 Abaixo está o modelo lógico do banco de dados:
 <img src="https://github.com/AlG1601/Os-Segredos-do-Hospital/blob/main/img%20Modelo%20l%C3%B3gico%20-%20Os%20Segredos%20do%20Hospital.png" />
 
-## Modelo Físico
+## PARTE 3 - Modelo Físico
 Aqui está o modelo físico do banco de dados, apresentado em SQL:
 ``` MySQL
 CREATE DATABASE IF NOT EXISTS SEGREDOS_HOSPITAL;
