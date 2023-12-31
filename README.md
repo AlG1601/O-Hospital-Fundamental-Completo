@@ -1,6 +1,6 @@
-# Os Segredos do Hospital
+# O Hospital Fundamental
 
-Bem-vindo ao repositório "Os Segredos do Hospital". Aqui você encontrará o desenvolvimento do banco de dados para um sistema hospitalar, com foco especial no controle de internações de pacientes.
+Bem-vindo ao repositório "O Hospital Fundamental". Aqui você encontrará o desenvolvimento do banco de dados para um sistema hospitalar, com foco especial no controle de internações de pacientes.
 
 ## Descrição
 
